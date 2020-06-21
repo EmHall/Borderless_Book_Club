@@ -21,6 +21,61 @@
     -webkit-transition: all .5s ease-in-out;
 }
 
+.phillis {
+ background: url("../images/phillis.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.hannah {
+    background: url("../images/hannah.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    min-height: 800px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.harriet {
+    background: url("../images/harriet.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.frances {
+    background: url("../images/frances.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.reni {
+    background: url("../images/reni.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 30%;
+    min-height: 800px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
 .quote {
     font-family: 'Noto-Serif', Serif;
     font-size: 18px;
