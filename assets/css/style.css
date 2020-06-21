@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+/*--Background*/
+
+
+.navbar-nav, .navbar-title, .nav-item, .nav-link {
+    font-family: 'Noto Serif', Serif;
+    font-size: 18px;
+}
+
+/* -- Photo and Quote --*/
+
+.maya {
+    background: url("../images/maya.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.quote {
+    font-family: 'Noto-Serif', Serif;
+    font-size: 18px;
+}
+
+.author {
+    font-family: 'Noto-Serif', Serif;
+    font-size: 15px;
+}
+
+.offset-xl-1 {
+    margin-top: 5px;
+    margin-left: 15px;
+}
