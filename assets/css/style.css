@@ -53,80 +53,42 @@
 
 .bg-color-name-title .title {
     font-size: 20px;
-    opacity: initial;
+    margin-left: 20px;
+}
 
+.bg-color-name-title .name {
+    font-size: 30px;
+    margin-left: 20px;
 }
 
 /*--Cards--*/
 
-.card {
+.col-md-3 {
+    height: 300px;
+    width: 180px;
+}
+
+
+    
+}
+
+/* -- icons --*/
+
+.container {
     margin-top: 20px;
     margin-left: 20px;
 }
 
-.cardrussia {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-.cardindia {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-.cardturkey {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-.cardiran {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-.cardchina {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-.cardisrael {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-.cardpalestine {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-.cardsyria {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-.cardnigeria {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-.cardkenya {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-.cardUSA {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-.cardargentina {
-    margin-top: 20px;
-    margin-left: 20px;
-}
-
-.card-title {
+.icon-title {
     font-family: 'Exo', sans-serif;
 }
 
-.card-text {
+.icon-text {
     font-family: 'Exo', sans-serif;
     font-weight: normal;
 }
+
+/*-- Hover Functionality --*/
 
 a {
     color: silver;
