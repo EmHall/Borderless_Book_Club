@@ -3,7 +3,7 @@
 /*--Navbar--*/
 
 .navbar-nav, .navbar-title, .nav-item, .nav-link {
-    font-family: 'Exo' sans-serif;
+    font-family: 'Exo', sans-serif;
     font-size: 18px;
     font-weight: 300;
 }
@@ -16,16 +16,11 @@
     width: 100%;
     font-family: 'Exo', sans-serif;
     font-size: 30px;
-    font-weight: 400;
+    font-weight: 300;
     color: black;
     padding-top: 20px;
 }
 
-.name {
-    font-weight: bold;
-}
-
-}
 .col-md-2 {
     margin-left: 0px;
 }
@@ -33,12 +28,24 @@
 /* -- Photo and Quote --*/
 
 .logo {
-    background: url("../images/anonymous.jpg");
-    background-position: left;
+    background: url("/assets/images/anonymous.jpg");
+    background-position: top;
     margin-right: 0px;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 350px;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.logo-russia {
+    background: url("/assets/images/tolstoy.jpg");
+    background-position: top;
+    margin-right: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 280px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -46,12 +53,68 @@
 
 .bg-color-name-title .title {
     font-size: 20px;
-    font-weight: 900;
+    opacity: initial;
+
 }
 
 /*--Cards--*/
 
 .card {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cardrussia {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cardindia {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cardturkey {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cardiran {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cardchina {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cardisrael {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.cardpalestine {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cardsyria {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cardnigeria {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cardkenya {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cardUSA {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cardargentina {
     margin-top: 20px;
     margin-left: 20px;
 }
@@ -65,16 +128,43 @@
     font-weight: normal;
 }
 
+a {
+    color: silver;
+}
+
 a:hover {
     text-decoration: none;
     color: black;
 }
 
-.hvr-sweep-to-bottom:before {
-    background: silver;
+.cardrussia .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/anonymous.jpg") no-repeat;
+    background-position: top;
+    background-size: cover;
     opacity: 50%;
-    height: 206px;
 }
+
+.cardindia .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/OctoberIndia.jpg") no-repeat;
+    background-position: top;
+    background-size: cover;
+    opacity: 50%;
+}
+.cardturkey .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/NovemberTurkey.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+}
+
+.cardiran .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/OctoberIndia.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+}
+
+.hvr-sweep-to-bottom:hover {
+    color: black;
+   
 
 /*-- Rubbish
 
