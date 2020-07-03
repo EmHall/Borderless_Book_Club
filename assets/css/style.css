@@ -25,8 +25,6 @@
     margin-left: 0px;
 }
 
-/* -- Photo and Quote --*/
-
 .logo {
     background: url("/assets/images/anonymous.jpg");
     background-position: top;
@@ -38,19 +36,6 @@
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
-
-.logo-russia {
-    background: url("/assets/images/tolstoy.jpg");
-    background-position: top;
-    margin-right: 0px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 280px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
-
 .bg-color-name-title .title {
     font-size: 20px;
     margin-left: 20px;
@@ -65,11 +50,7 @@
 
 .col-md-3 {
     height: 300px;
-    width: 180px;
-}
-
-
-    
+    width: 180px;    
 }
 
 /* -- icons --*/
@@ -81,11 +62,13 @@
 
 .icon-title {
     font-family: 'Exo', sans-serif;
+    padding: 10px;
 }
 
 .icon-text {
     font-family: 'Exo', sans-serif;
     font-weight: normal;
+    padding: 10px;
 }
 
 /*-- Hover Functionality --*/
@@ -104,6 +87,12 @@ a:hover {
     background-position: top;
     background-size: cover;
     opacity: 50%;
+    padding: 10px;
+}
+
+.hvr-sweep-to-bottom:before {
+    width: 225px;
+    height: 300px;
 }
 
 .cardindia .hvr-sweep-to-bottom:before {
@@ -116,88 +105,35 @@ a:hover {
     background: url("/assets/images/NovemberTurkey.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
+    background-position: center, bottom;
 }
 
 .cardiran .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/OctoberIndia.jpg") no-repeat;
+    background: url("/assets/images/DecemberIran.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
 }
 
+.cardchina .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/JanuaryChina.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+}
+
+
 .hvr-sweep-to-bottom:hover {
     color: black;
-   
 
-/*-- Rubbish
+<!-- Russia page -->
 
-.phillis {
- background: url("../images/phillis.jpg");
-    background-position: top left;
-    background-repeat: no-repeat;
-    background-size: 70%;
-    min-height: 360px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
-
-.hannah {
-    background: url("../images/hannah.jpg");
-    background-position: top left;
-    background-repeat: no-repeat;
-    background-size: 30%;
-    min-height: 800px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
-
-.harriet {
-    background: url("../images/harriet.jpg");
-    background-position: top left;
+.logo-russia {
+    background: url("/assets/images/tolstoy.jpg");
+    background-position: top;
+    margin-right: 0px;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 800px;
+    min-height: 280px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
-
-.frances {
-    background: url("../images/frances.jpg");
-    background-position: top left;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 800px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
-
-.reni {
-    background: url("../images/reni.jpg");
-    background-position: top left;
-    background-repeat: no-repeat;
-    background-size: 30%;
-    min-height: 800px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
-
-.quote {
-    font-family: 'Exo', sans-serif;
-    font-size: 18px;
-}
-
-.author {
-    font-family: 'Exo', sans-serif;
-    font-size: 15px;
-}
-
-.offset-xl-1 {
-    margin-top: 5px;
-    margin-left: 15px;
-}
-
---*/
