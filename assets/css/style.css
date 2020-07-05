@@ -19,10 +19,11 @@
     font-weight: 300;
     color: black;
     padding-top: 20px;
+    margin: 20px;
 }
 
 .col-md-2 {
-    margin-left: 0px;
+    margin: 20px;
 }
 
 .logo {
@@ -35,7 +36,9 @@
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+    margin-bottom: 20px;
 }
+
 .bg-color-name-title .title {
     font-size: 20px;
     margin-left: 20px;
@@ -120,13 +123,7 @@ a:hover {
     opacity: 50%;
 }
 
-
-.hvr-sweep-to-bottom:hover {
-    color: black;
-
-<!-- Russia page -->
-
-.logo-russia {
+.russialogo {
     background: url("/assets/images/tolstoy.jpg");
     background-position: top;
     margin-right: 0px;
@@ -137,3 +134,9 @@ a:hover {
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
+
+.hvr-sweep-to-bottom:hover {
+    color: black;
+}
+
+/*!-- Russia page --*/
