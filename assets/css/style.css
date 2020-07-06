@@ -1,15 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
-
 /*--Navbar--*/
-
+body {
+    margin: auto;
+}
 .navbar-nav, .navbar-title, .nav-item, .nav-link {
     font-family: 'Exo', sans-serif;
     font-size: 18px;
     font-weight: 300;
 }
-
 /*--Title Panel--*/
-
 .col-md-10 {
     background-color: silver;
     opacity: 50%;
@@ -19,154 +18,150 @@
     font-weight: 300;
     color: black;
     padding-top: 20px;
-    margin: 20px;
-}
-
-.col-md-2 {
-    margin: 20px;
 }
 
 .logo {
-    background: url("/assets/images/anonymous.jpg");
-    background-position: top;
     margin-right: 0px;
-    background-repeat: no-repeat;
+    background: url("../images/JhumpaLahiri.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
-    margin-bottom: 20px;
+}
+
+.pushkin {
+    margin-right: 0px;
+    background: url("../images/pushkin.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 
 .bg-color-name-title .title {
     font-size: 20px;
     margin-left: 20px;
 }
-
 .bg-color-name-title .name {
     font-size: 30px;
     margin-left: 20px;
 }
-
 /*--Cards--*/
-
 .col-md-3 {
     height: 300px;
     width: 180px;    
 }
-
 /* -- icons --*/
-
 .container {
     margin-top: 20px;
     margin-left: 20px;
 }
-
 .icon-title {
     font-family: 'Exo', sans-serif;
     padding: 10px;
 }
-
 .icon-text {
     font-family: 'Exo', sans-serif;
     font-weight: normal;
     padding: 10px;
 }
-
 /*-- Hover Functionality --*/
-
 a {
     color: silver;
 }
-
 a:hover {
     text-decoration: none;
     color: black;
 }
-
 .cardrussia .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/anonymous.jpg") no-repeat;
-    background-position: top;
+    background: url("../images/anonymous.jpg") no-repeat top;
     background-size: cover;
-    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+    opacity: 20%;
     padding: 10px;
 }
-
 .hvr-sweep-to-bottom:before {
     width: 225px;
     height: 300px;
 }
-
 .cardindia .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/OctoberIndia.jpg") no-repeat;
-    background-position: top;
+    background: url("../images/OctoberIndia.jpg") no-repeat top;
     background-size: cover;
     opacity: 50%;
+    object-fit: cover;
+    width: 100%;
 }
 .cardturkey .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/NovemberTurkey.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
-    background-position: center, bottom;
+    object-fit: cover;
+    width: 100%;
+    background: url("../images/NovemberTurkey.jpg") no-repeat center, bottom;
 }
-
 .cardiran .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/DecemberIran.jpg") no-repeat;
+    background: url("../images/DecemberIran.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
+    object-fit: cover;
+    width: 100%;
 }
-
 .cardchina .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/JanuaryChina.jpg") no-repeat;
+    background: url("../images/JanuaryChina.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
+    object-fit: cover;
+    width: 100%;
 }
-
 .cardisrael .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/FebruaryIsrael.jpg") no-repeat;
+    background: url("../images/FebruaryIsrael.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
+    object-fit: cover;
+    width: 100%;
 }
-
 .cardlebanon .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/MarchLebanon.jpg") no-repeat;
+    background: url("../images/MarchLebanon.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
+    object-fit: cover;
+    width: 100%;
 }
-
 .cardafghanistan .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/AprilAfghanistan.jpg") no-repeat;
+    background: url("../images/AprilAfghanistan.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
+    object-fit: cover;
+    width: 100%;
 }
-
 .cardnigeria .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/MayNigeria.jpg") no-repeat;
+    background: url("../images/MayNigeria.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
+    object-fit: cover;
+    width: 100%;
 }
-
 .cardkenya .hvr-sweep-to-bottom:before {
-    background: url("/assets/images/JuneKenya.jpg") no-repeat;
+    background: url("../images/JuneKenya.jpg") no-repeat;
     background-size: 288px;
     opacity: 50%;
+    object-fit: cover;
+    width: 100%;
 }
-
 .russialogo {
-    background: url("/assets/images/tolstoy.jpg");
-    background-position: top;
     margin-right: 0px;
-    background-repeat: no-repeat;
-    background-size: cover
+    background: url("../images/anonymous.jpg") no-repeat top;
+    background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
 }
-
 .hvr-sweep-to-bottom:hover {
     color: black;
 }
-
 /*!-- Russia page --*/
