@@ -123,12 +123,42 @@ a:hover {
     opacity: 50%;
 }
 
+.cardisrael .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/FebruaryIsrael.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+}
+
+.cardlebanon .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/MarchLebanon.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+}
+
+.cardafghanistan .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/AprilAfghanistan.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+}
+
+.cardnigeria .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/MayNigeria.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+}
+
+.cardkenya .hvr-sweep-to-bottom:before {
+    background: url("/assets/images/JuneKenya.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+}
+
 .russialogo {
     background: url("/assets/images/tolstoy.jpg");
     background-position: top;
     margin-right: 0px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover
     min-height: 280px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
