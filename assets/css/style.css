@@ -174,3 +174,8 @@ a:hover {
     color: black;
 }
 /*!-- Russia page --*/
+
+.text-blurb {
+    font-family: "Exo", sans-serif;
+    font-size: 15px;
+}
