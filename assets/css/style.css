@@ -9,7 +9,7 @@ body {
     font-weight: 300;
 }
 /*--Title Panel--*/
-.col-md-10 {
+.col-md-12 {
     background-color: silver;
     opacity: 50%;
     width: 100%;
@@ -49,10 +49,10 @@ body {
     -webkit-transition: all .5s ease-in-out;
 }
 
-.bg-color-name-title .title {
+.title {
     font-size: 20px;
-    margin-left: 20px;
 }
+
 .bg-color-name-title .name {
     font-size: 30px;
     margin-left: 20px;
@@ -161,7 +161,7 @@ a:hover {
 }
 .russialogo {
     margin-right: 0px;
-    background: url("../images/anonymous.jpg") no-repeat top;
+    background: url("/assets/images/Russia/anonymous.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -175,7 +175,19 @@ a:hover {
 }
 /*!-- Russia page --*/
 
+.title {
+    font-family: "Exo", sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+}
+
 .text-blurb {
     font-family: "Exo", sans-serif;
     font-size: 15px;
+    padding-left: 20px;
+}
+
+.pushkin-image {
+    background-image: auto;
+    opacity: solid;
 }
