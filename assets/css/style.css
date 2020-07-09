@@ -185,6 +185,7 @@ a:hover {
     font-family: "Exo", sans-serif;
     font-size: 20px;
     font-weight: normal;
+    padding-top: 5px;
 }
 
 .title-link {
@@ -201,13 +202,13 @@ a:hover {
 
 .pushkin-image {
     width: 100%;
-    border: 2px solid #ff66ff;
+    padding: 10px;
 }
 
 .pushkin-image2 {
     width: 200px;
-    border: 2px solid #ff66ff;
     float: left;
+    padding: 10px;
 }
 
 .title-link a {
