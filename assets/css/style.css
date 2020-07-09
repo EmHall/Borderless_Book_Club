@@ -196,11 +196,18 @@ a:hover {
 .text-blurb {
     font-family: "Exo", sans-serif;
     font-size: 15px;
-    padding: 10px;
+    padding: 15px;
 }
 
 .pushkin-image {
     width: 100%;
+    border: 2px solid #ff66ff;
+}
+
+.pushkin-image2 {
+    width: 200px;
+    border: 2px solid #ff66ff;
+    float: left;
 }
 
 .title-link a {
@@ -220,5 +227,5 @@ a:hover {
     color: black;
     padding-top: 10px;
 }
-    
-}
+
+
