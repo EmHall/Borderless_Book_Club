@@ -196,11 +196,11 @@ a:hover {
 .text-blurb {
     font-family: "Exo", sans-serif;
     font-size: 15px;
+    padding: 10px;
 }
 
 .pushkin-image {
-    width: 150%;
-    padding: 0px;
+    width: 100%;
 }
 
 .title-link a {
@@ -213,5 +213,12 @@ a:hover {
 
 .standard-container {
     background-color: rgb(192,192,192, 0.5);
+    width: 100%;
+    font-family: 'Exo', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    color: black;
+    padding-top: 10px;
+}
     
 }
