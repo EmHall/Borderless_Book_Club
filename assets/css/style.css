@@ -1,48 +1,38 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 /*--Navbar--*/
-body {
-    margin: auto;
-}
+
 .navbar-nav, .navbar-title, .nav-item, .nav-link {
     font-family: 'Exo', sans-serif;
     font-size: 18px;
     font-weight: 300;
 }
+
 /*--Title Panel--*/
 
-.container-fluid{
+.container-fluid-1 {
     background-color: rgb(192,192,192, 0.5);
     width: 100%;
-    font-family: 'Exo', sans-serif;
-    font-size: 30px;
-    font-weight: 300;
     color: black;
-    padding-top: 20px;
 }
 
-.logo {
-    margin-right: 0px;
-    background: url("../images/JhumpaLahiri.jpg") no-repeat top;
-    background-size: cover;
-    min-height: 280px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
+/*-- Index.html --*/
 
 .elephant {
     margin-right: 0px;
     background: url("../images/elephant.jpg") no-repeat top;
     background-size: cover;
+    width: 170px;
     min-height: 280px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
-.pushkin {
+
+.jhumpa {
     margin-right: 0px;
-    background: url("../images/pushkin.jpg") no-repeat top;
+    background: url("../images/JhumpaLahiri.jpg") no-repeat top;
     background-size: cover;
+    width: 170px;
     min-height: 280px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -59,11 +49,34 @@ body {
     font-size: 15px;
 }
 
+/*-- Russia --*/
+
+.pushkin {
+    margin-right: 0px;
+    background: url("../images/pushkin.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+
 .bg-color-name-title .name {
     font-size: 30px;
     margin-left: 20px;
 }
 /*--Cards--*/
+
+.container-fluid-2 {
+    background-color: white;
+    width: 100%;
+    font-family: 'Exo', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    color: black;
+}
+
 .col-md-3 {
     height: 300px;
     width: 180px;    
@@ -185,7 +198,7 @@ a:hover {
     font-family: "Exo", sans-serif;
     font-size: 20px;
     font-weight: normal;
-    padding-top: 5px;
+    padding-top: 10px;
 }
 
 .title-link {
@@ -219,14 +232,13 @@ a:hover {
     color: #ff66ff;
 }
 
-.standard-container {
+.container-fluid-3 {
     background-color: rgb(192,192,192, 0.5);
     width: 100%;
     font-family: 'Exo', sans-serif;
     font-size: 30px;
     font-weight: 300;
     color: black;
-    padding-top: 10px;
 }
 
 
