@@ -100,23 +100,15 @@ a:hover {
     text-decoration: none;
     color: #f0f;
 }
-.cardrussia .hvr-sweep-to-bottom:before {
-    background: url("../images/anonymous.jpg") no-repeat top;
-    background-size: cover;
-    object-fit: cover;
-    width: 100%;
-    opacity: 20%;
-    padding: 10px;
-}
+
 .hvr-sweep-to-bottom:before {
     width: 225px;
     height: 300px;
 }
 
-
 .russialogo {
     margin-right: 0px;
-    background: url("/assets/images/russia/anonymous.jpg") no-repeat top;
+    background: url("/assets/images/russia/russialogo.jpg") no-repeat top;
     background-size: cover;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -175,7 +167,7 @@ a:hover {
 
 .indialogo {
     margin-right: 0px;
-    background: url("/assets/images/india/OctoberIndia.jpg") no-repeat top;
+    background: url("/assets/images/india/indialogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -197,9 +189,9 @@ a:hover {
     width: 100%;
 }
 
-.lahiri {
+.tharoor {
     margin-right: 0px;
-    background: url("/assets/images/india/lahiri.jpg") no-repeat top;
+    background: url("/assets/images/india/tharoor.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -212,6 +204,246 @@ a:hover {
 .naidu {
     margin-right: 0px;
     background: url("/assets/images/india/naidu.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.turkeylogo {
+    margin-right: 0px;
+    background: url("/assets/images/turkey/turkeylogo.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.kemal {
+    margin-right: 0px;
+    background: url("/assets/images/turkey/kemal.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.karakasli {
+    margin-right: 0px;
+    background: url("/assets/images/turkey/karakasli.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.hikmet {
+    margin-right: 0px;
+    background: url("/assets/images/turkey/hikmet.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.iranlogo {
+    margin-right: 0px;
+    background: url("/assets/images/iran/iranlogo.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.attar {
+    margin-right: 0px;
+    background: url("/assets/images/iran/attar.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.hedayat {
+    margin-right: 0px;
+    background: url("/assets/images/iran/hedayat.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.hafez {
+    margin-right: 0px;
+    background: url("/assets/images/iran/hafez.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.chinalogo {
+    margin-right: 0px;
+    background: url("/assets/images/china/chinalogo.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.jian {
+    margin-right: 0px;
+    background: url("/assets/images/china/jian.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.chang {
+    margin-right: 0px;
+    background: url("/assets/images/china/chang.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.bai {
+    margin-right: 0px;
+    background: url("/assets/images/china/bai.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.israellogo {
+    margin-right: 0px;
+    background: url("/assets/images/israel/israellogo.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.oz {
+    margin-right: 0px;
+    background: url("/assets/images/israel/oz.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.keret {
+    margin-right: 0px;
+    background: url("/assets/images/israel/keret.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.hakimi {
+    margin-right: 0px;
+    background: url("/assets/images/israel/hakimi.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.lebanonlogo {
+    margin-right: 0px;
+    background: url("/assets/images/lebanon/lebanonlogo.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.kashua {
+    margin-right: 0px;
+    background: url("/assets/images/lebanon/kashua.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.gibran {
+    margin-right: 0px;
+    background: url("/assets/images/lebanon/gibran.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.noir {
+    margin-right: 0px;
+    background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
