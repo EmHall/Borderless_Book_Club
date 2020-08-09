@@ -92,7 +92,7 @@ a {
 }
 a:hover {
     text-decoration: none;
-    color: black;
+    color: #f0f;
 }
 .cardrussia .hvr-sweep-to-bottom:before {
     background: url("../images/anonymous.jpg") no-repeat top;
