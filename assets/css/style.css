@@ -42,17 +42,6 @@
 
 /*-- Russia --*/
 
-.pushkin {
-    margin-right: 0px;
-    background: url("../images/pushkin.jpg") no-repeat top;
-    background-size: cover;
-    min-height: 280px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
-
-
 .bg-color-name-title .name {
     font-size: 30px;
     margin-left: 20px;
@@ -169,9 +158,37 @@ a:hover {
     object-fit: cover;
     width: 100%;
 }
+
+.row {
+    margin-top: 15px;
+}
+
 .russialogo {
     margin-right: 0px;
-    background: url("/assets/images/Russia/anonymous.jpg") no-repeat top;
+    background: url("/assets/images/russia/anonymous.jpg") no-repeat top;
+    background-size: cover;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.lermentov {
+    margin-right: 0px;
+    background: url("/assets/images/russia/lermentov.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 340px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.lermentov {
+    margin-right: 0px;
+    background: url("/assets/images/russia/lermentov.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -180,6 +197,43 @@ a:hover {
     object-fit: cover;
     width: 100%;
 }
+
+.tolstoy {
+    margin-right: 0px;
+    background: url("/assets/images/russia/tolstoy.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.akhmatova {
+    margin-right: 0px;
+    background: url("/assets/images/russia/akhmatova.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.pushkin {
+    margin-right: 0px;
+    background: url("/assets/images/russia/pushkin.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
 .hvr-sweep-to-bottom:hover {
     color: black;
 }
@@ -202,6 +256,7 @@ a:hover {
     font-family: "Exo", sans-serif;
     font-size: 15px;
     padding: 15px;
+    margin-top: 15px;
 }
 
 .pushkin-image {
