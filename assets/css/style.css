@@ -429,6 +429,18 @@ a:hover {
     width: 100%;
 }
 
+.noir {
+    margin-right: 0px;
+    background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
 .gibran {
     margin-right: 0px;
     background: url("/assets/images/lebanon/gibran.jpg") no-repeat top;
@@ -441,9 +453,153 @@ a:hover {
     width: 100%;
 }
 
+.afghanistanlogo {
+    margin-right: 0px;
+    background: url("/assets/images/afghanistan/afghanistanlogo.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.hosseini {
+    margin-right: 0px;
+    background: url("/assets/images/afghanistan/hosseini.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.osman {
+    margin-right: 0px;
+    background: url("/assets/images/afghanistan/osman.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.rumi {
+    margin-right: 0px;
+    background: url("/assets/images/afghanistan/rumi.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.nigerialogo {
+    margin-right: 0px;
+    background: url("/assets/images/nigeria/nigerialogo.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.emecheta {
+    margin-right: 0px;
+    background: url("/assets/images/nigeria/emecheta.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.habila {
+    margin-right: 0px;
+    background: url("/assets/images/nigeria/habila.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.adams {
+    margin-right: 0px;
+    background: url("/assets/images/nigeria/adams.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
 .noir {
     margin-right: 0px;
     background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.kenyalogo {
+    margin-right: 0px;
+    background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.thiongo {
+    margin-right: 0px;
+    background: url("/assets/images/kenya/thiongo.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.mabura {
+    margin-right: 0px;
+    background: url("/assets/images/kenya/mabura.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.teyie {
+    margin-right: 0px;
+    background: url("/assets/images/kenya/teyie.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
