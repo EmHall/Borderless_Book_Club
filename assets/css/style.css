@@ -450,6 +450,7 @@ a:hover {
     object-fit: cover;
     width: 100%;
 }
+
 .hakimi {
     margin-right: 0px;
     background: url("/assets/images/israel/hakimi.jpg") no-repeat top;
@@ -754,4 +755,103 @@ a:hover {
     color: black;
 }
 
+/*--cardsagain---*/
+
+a {
+    color: silver;
+}
+a:hover {
+    text-decoration: none;
+    columns: #ff00ff;
+}
+.cardrussia .hvr-sweep-to-bottom:before {
+    background: rgba(0,255,255,.3);
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    opacity: 20%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.hvr-sweep-to-bottom:before {
+    width: 225px;
+    height: 300px;
+}
+.cardindia .hvr-sweep-to-bottom:before {
+    background: url("../images/OctoberIndia.jpg") no-repeat top;
+    background-size: cover;
+    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+}
+.cardturkey .hvr-sweep-to-bottom:before {
+    background-size: 288px;
+    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+    background: url("../images/NovemberTurkey.jpg") no-repeat center, bottom;
+}
+.cardiran .hvr-sweep-to-bottom:before {
+    background: url("../images/DecemberIran.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+}
+.cardchina .hvr-sweep-to-bottom:before {
+    background: url("../images/JanuaryChina.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+}
+.cardisrael .hvr-sweep-to-bottom:before {
+    background: url("../images/FebruaryIsrael.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+}
+.cardlebanon .hvr-sweep-to-bottom:before {
+    background: url("../images/MarchLebanon.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+}
+.cardafghanistan .hvr-sweep-to-bottom:before {
+    background: url("../images/AprilAfghanistan.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+}
+.cardnigeria .hvr-sweep-to-bottom:before {
+    background: url("../images/MayNigeria.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+}
+.cardkenya .hvr-sweep-to-bottom:before {
+    background: url("../images/JuneKenya.jpg") no-repeat;
+    background-size: 288px;
+    opacity: 50%;
+    object-fit: cover;
+    width: 100%;
+}
+.russialogo {
+    margin-right: 0px;
+    background: url("../images/tolstoy.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+.hvr-sweep-to-bottom:hover {
+    color: black;
+}
 
