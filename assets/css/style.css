@@ -213,6 +213,18 @@ a:hover {
     width: 100%;
 }
 
+.rushdie {
+    margin-right: 0px;
+    background: url("/assets/images/india/rushdie.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
 .turkeylogo {
     margin-right: 0px;
     background: url("/assets/images/turkey/turkeylogo.jpg") no-repeat top;
@@ -225,9 +237,9 @@ a:hover {
     width: 100%;
 }
 
-.kemal {
+.ali {
     margin-right: 0px;
-    background: url("/assets/images/turkey/kemal.jpg") no-repeat top;
+    background: url("/assets/images/turkey/ali.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -252,6 +264,18 @@ a:hover {
 .hikmet {
     margin-right: 0px;
     background: url("/assets/images/turkey/hikmet.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.kemal {
+    margin-right: 0px;
+    background: url("/assets/images/turkey/kemal.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
