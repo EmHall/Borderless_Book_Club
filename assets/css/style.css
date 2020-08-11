@@ -31,6 +31,14 @@
     color: #f0f;
 }
 
+.page-subtitle {
+    font-family: "Exo" sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    padding-left: 20px;
+    color: #f0f;
+}
+
 .elephant {
     margin-right: 0px;
     background: url("../images/elephant.jpg") no-repeat top;
@@ -371,9 +379,9 @@ a:hover {
     width: 100%;
 }
 
-.chang {
+.songling {
     margin-right: 0px;
-    background: url("/assets/images/china/chang.jpg") no-repeat top;
+    background: url("/assets/images/china/songling.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -395,9 +403,9 @@ a:hover {
     width: 100%;
 }
 
-.israellogo {
+.chang {
     margin-right: 0px;
-    background: url("/assets/images/israel/israellogo.jpg") no-repeat top;
+    background: url("/assets/images/china/chang.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -407,9 +415,9 @@ a:hover {
     width: 100%;
 }
 
-.oz {
+.israellogo {
     margin-right: 0px;
-    background: url("/assets/images/israel/oz.jpg") no-repeat top;
+    background: url("/assets/images/israel/israellogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -431,9 +439,32 @@ a:hover {
     width: 100%;
 }
 
+.yizhar {
+    margin-right: 0px;
+    background: url("/assets/images/israel/yizhar.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
 .hakimi {
     margin-right: 0px;
     background: url("/assets/images/israel/hakimi.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.oz {
+    margin-right: 0px;
+    background: url("/assets/images/israel/oz.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -479,9 +510,21 @@ a:hover {
     width: 100%;
 }
 
-.gibran {
+.qabbani {
     margin-right: 0px;
-    background: url("/assets/images/lebanon/gibran.jpg") no-repeat top;
+    background: url("/assets/images/lebanon/qabbani.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.khoury {
+    margin-right: 0px;
+    background: url("/assets/images/lebanon/khoury.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
@@ -530,6 +573,18 @@ a:hover {
 .rumi {
     margin-right: 0px;
     background: url("/assets/images/afghanistan/rumi.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.khalili {
+    margin-right: 0px;
+    background: url("/assets/images/afghanistan/khalili.jpg") no-repeat top;
     background-size: cover;
     min-height: 280px;
     transition: all .5s ease-in-out;
