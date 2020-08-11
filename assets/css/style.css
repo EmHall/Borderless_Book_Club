@@ -309,18 +309,6 @@ a:hover {
     width: 100%;
 }
 
-.hedayat {
-    margin-right: 0px;
-    background: url("/assets/images/iran/hedayat.jpg") no-repeat top;
-    background-size: cover;
-    min-height: 280px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-    object-fit: cover;
-    width: 100%;
-}
-
 .hafez {
     margin-right: 0px;
     background: url("/assets/images/iran/hafez.jpg") no-repeat top;
@@ -332,6 +320,32 @@ a:hover {
     object-fit: cover;
     width: 100%;
 }
+
+.farrokhzad {
+    margin-right: 0px;
+    background: url("/assets/images/iran/farrokhzad.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.ferdowsi {
+    margin-right: 0px;
+    background: url("/assets/images/iran/ferdowsi.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+
 
 .chinalogo {
     margin-right: 0px;
