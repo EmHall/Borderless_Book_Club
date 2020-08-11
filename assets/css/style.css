@@ -8,6 +8,7 @@
 
 .navbar-nav, .navbar-title, .nav-item, .nav-link {
     font-family: 'Exo', sans-serif;
+    color: #d7ebf2;
     font-size: 1.8rem;
     font-weight: 300;
 }
@@ -15,14 +16,14 @@
 /*--Title Panel--*/
 
 .container-fluid-1 {
-    background-color: rgb(192,192,192, 0.5);
+    background-color:#d7ebf2;
     width: 100%;
     color: black;
     margin-bottom: 1rem;
 }
 
 .container-fluid-2 {
-    background-color: #F8f9FA);
+    background-color: #d7ebf2);
     width: 100%;
 }
 
@@ -30,26 +31,26 @@
 
 .page-title {
     font-family: "Exo" sans-serif;
-    font-size: 30px;
+    font-size: 3rem;
     font-weight: 300;
     padding-left: 2rem;
-    color: #f0f;
+    color: black;
 }
 
 .page-subtitle {
     font-family: "Exo" sans-serif;
     font-size: 2rem;
     font-weight: 200;
-    padding-left: 20px;
-    color: #f0f;
+    padding-left: 2rem;
+    color:black;
 }
 
 .elephant {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("../images/elephant.jpg") no-repeat top;
     background-size: cover;
-    width: 170px;
-    min-height: 280px;
+    width: 17rem;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -57,20 +58,20 @@
 
 .title {
     font-family: "Exo" sans-serif;
-    font-size: 20px;
-    margin-top: 8px;
+    font-size: 2rem;
+    margin-top: .8rem;
 }
 
 .subtitle {
     font-family: "Exo" sans-serif;
-    font-size: 18px;
+    font-size: 1.8rem;
 }
 
 /*-- Russia --*/
 
 .bg-color-name-title .name {
-    font-size: 30px;
-    margin-left: 20px;
+    font-size: 3rem;
+    margin-left: 2rem;
 }
 /*--Cards--*/
 
@@ -78,49 +79,58 @@
     background-color: white;
     width: 100%;
     font-family: 'Exo', sans-serif;
-    font-size: 30px;
+    font-size: 3rem;
     font-weight: 300;
     color: black;
 }
 
 .col-md-2 {
-    height: 320px;
+    height: 3.2rem;
 }
 
 .col-md-3 {
-    height: 300px;
-    width: 180px;    
+    height: 30rem;
+    width: 1.8rem;    
 }
 /* -- icons --*/
 .container {
-    margin-top: 20px;
-    margin-left: 20px;
+    margin-top: 2rem;
+    margin-left: 2rem;
 }
 .icon-title {
     font-family: 'Exo', sans-serif;
-    padding: 10px;
+    padding: 1rem;
 }
 .icon-text {
     font-family: 'Exo', sans-serif;
     font-weight: normal;
-    padding: 10px;
+    padding: 1rem;
 }
 /*-- Hover Functionality --*/
 a {
-    color: silver;
+    color: #d7ebf2;
 }
 a:hover {
     text-decoration: none;
-    color: #f0f;
+    color: black;
 }
 
 .hvr-sweep-to-bottom:before {
-    width: 225px;
-    height: 300px;
+    background: #d7ebf2;
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+}
+
+.nav-link.hvr-sweep-to-bottom:before {
+    background: #d7ebf2;
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
 }
 
 .russialogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/russia/russialogo.jpg") no-repeat top;
     background-size: cover;
     transition: all .5s ease-in-out;
@@ -131,10 +141,10 @@ a:hover {
 }
 
 .lermentov {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/russia/lermentov.jpg") no-repeat top;
     background-size: cover;
-    min-height: 340px;
+    min-height: 34rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -143,10 +153,10 @@ a:hover {
 }
 
 .tolstoy {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/russia/tolstoy.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -155,10 +165,10 @@ a:hover {
 }
 
 .akhmatova {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/russia/akhmatova.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -167,10 +177,10 @@ a:hover {
 }
 
 .pushkin {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/russia/pushkin.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -179,10 +189,10 @@ a:hover {
 }
 
 .indialogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/india/indialogo.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -191,10 +201,10 @@ a:hover {
 }
 
 .singh {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/india/singh.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -203,10 +213,10 @@ a:hover {
 }
 
 .tharoor {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/india/tharoor.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -215,10 +225,10 @@ a:hover {
 }
 
 .naidu {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/india/naidu.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -227,10 +237,10 @@ a:hover {
 }
 
 .rushdie {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/india/rushdie.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -239,10 +249,10 @@ a:hover {
 }
 
 .turkeylogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/turkey/turkeylogo.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -251,10 +261,10 @@ a:hover {
 }
 
 .ali {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/turkey/ali.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -263,10 +273,10 @@ a:hover {
 }
 
 .karakasli {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/turkey/karakasli.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -275,10 +285,10 @@ a:hover {
 }
 
 .hikmet {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/turkey/hikmet.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -287,10 +297,10 @@ a:hover {
 }
 
 .kemal {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/turkey/kemal.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -299,10 +309,10 @@ a:hover {
 }
 
 .iranlogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/iran/iranlogo.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -311,10 +321,10 @@ a:hover {
 }
 
 .attar {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/iran/attar.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -323,10 +333,10 @@ a:hover {
 }
 
 .hafez {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/iran/hafez.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -335,10 +345,10 @@ a:hover {
 }
 
 .farrokhzad {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/iran/farrokhzad.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -347,10 +357,10 @@ a:hover {
 }
 
 .ferdowsi {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/iran/ferdowsi.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -358,13 +368,11 @@ a:hover {
     width: 100%;
 }
 
-
-
 .chinalogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/china/chinalogo.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -373,10 +381,10 @@ a:hover {
 }
 
 .jian {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/china/jian.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -385,10 +393,10 @@ a:hover {
 }
 
 .songling {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/china/songling.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -397,10 +405,10 @@ a:hover {
 }
 
 .bai {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/china/bai.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -409,10 +417,10 @@ a:hover {
 }
 
 .chang {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/china/chang.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -421,10 +429,10 @@ a:hover {
 }
 
 .israellogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/israel/israellogo.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -433,10 +441,10 @@ a:hover {
 }
 
 .keret {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/israel/keret.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -445,10 +453,10 @@ a:hover {
 }
 
 .yizhar {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/israel/yizhar.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -457,10 +465,10 @@ a:hover {
 }
 
 .hakimi {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/israel/hakimi.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -469,10 +477,10 @@ a:hover {
 }
 
 .oz {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/israel/oz.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -481,10 +489,10 @@ a:hover {
 }
 
 .lebanonlogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/lebanon/lebanonlogo.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -493,10 +501,10 @@ a:hover {
 }
 
 .kashua {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/lebanon/kashua.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -505,10 +513,10 @@ a:hover {
 }
 
 .noir {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -517,10 +525,10 @@ a:hover {
 }
 
 .qabbani {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/lebanon/qabbani.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -529,10 +537,10 @@ a:hover {
 }
 
 .khoury {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/lebanon/khoury.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -541,10 +549,10 @@ a:hover {
 }
 
 .afghanistanlogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/afghanistan/afghanistanlogo.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -553,10 +561,10 @@ a:hover {
 }
 
 .hosseini {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/afghanistan/hosseini.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28erm;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -565,10 +573,10 @@ a:hover {
 }
 
 .osman {
-    margin-right: 0px;
+    margin-right: 0erm;
     background: url("/assets/images/afghanistan/osman.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -577,10 +585,10 @@ a:hover {
 }
 
 .rumi {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/afghanistan/rumi.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -589,10 +597,10 @@ a:hover {
 }
 
 .khalili {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/afghanistan/khalili.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -601,10 +609,10 @@ a:hover {
 }
 
 .nigerialogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/nigeria/nigerialogo.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -613,10 +621,10 @@ a:hover {
 }
 
 .emecheta {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/nigeria/emecheta.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -625,10 +633,10 @@ a:hover {
 }
 
 .habila {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/nigeria/habila.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -637,10 +645,10 @@ a:hover {
 }
 
 .adams {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/nigeria/adams.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -649,10 +657,10 @@ a:hover {
 }
 
 .noir {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -661,10 +669,10 @@ a:hover {
 }
 
 .kenyalogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -673,10 +681,10 @@ a:hover {
 }
 
 .thiongo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/kenya/thiongo.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -685,10 +693,10 @@ a:hover {
 }
 
 .mabura {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/kenya/mabura.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -697,10 +705,10 @@ a:hover {
 }
 
 .teyie {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("/assets/images/kenya/teyie.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -715,32 +723,32 @@ a:hover {
 
 .title {
     font-family: "Exo", sans-serif;
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: normal;
-    padding-top: 10px;
+    padding-top: 1rem;
 }
 
 .title-link {
  font-family: "Exo" sans-serif;
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: normal;   
 }
 
 .text-blurb {
     font-family: "Exo", sans-serif;
-    font-size: 15px;
-    padding-left: 15px;
+    font-size: 1.5rem;
+    padding-left: 1.5rem;
 }
 
 .pushkin-image {
     width: 100%;
-    padding: 10px;
+    padding: 1rem;
 }
 
 .pushkin-image2 {
-    width: 200px;
+    width: 20rem;
     float: left;
-    padding: 10px;
+    padding: 1rem;
 }
 
 .title-link a {
@@ -748,14 +756,14 @@ a:hover {
 }
 
 .title-link a:hover {
-    color: #ff66ff;
+    color: black;
 }
 
 .container-fluid-3 {
     background-color: rgb(192,192,192, 0.5);
     width: 100%;
     font-family: 'Exo', sans-serif;
-    font-size: 30px;
+    font-size: 3rem;
     font-weight: 300;
     color: black;
 }
@@ -767,96 +775,84 @@ a {
 }
 a:hover {
     text-decoration: none;
-    columns: #ff00ff;
+    columns: black;
 }
+
+.hvr-sweep-to-bottom:before {
+    width: 22.5rem;
+    height: 30rem;
+}
+
 .cardrussia .hvr-sweep-to-bottom:before {
-    background: rgba(92, 135, 184, 0.644);
+    background: #d7ebf2;
     background-size: cover;
     object-fit: cover;
     width: 100%;
-    opacity: 20%;
-    padding: 10px;
-    margin-bottom: 10px;
 }
-.hvr-sweep-to-bottom:before {
-    width: 225px;
-    height: 300px;
-}
+
 .cardindia .hvr-sweep-to-bottom:before {
-    background: url("../images/OctoberIndia.jpg") no-repeat top;
+    background: #d7ebf2;
     background-size: cover;
-    opacity: 50%;
     object-fit: cover;
     width: 100%;
 }
 .cardturkey .hvr-sweep-to-bottom:before {
-    background-size: 288px;
-    opacity: 50%;
+    background: #d7ebf2;
+    background-size: 28.8rem;
     object-fit: cover;
     width: 100%;
-    background: url("../images/NovemberTurkey.jpg") no-repeat center, bottom;
 }
 .cardiran .hvr-sweep-to-bottom:before {
-    background: url("../images/DecemberIran.jpg") no-repeat;
-    background-size: 288px;
-    opacity: 50%;
+    background: #d7ebf2;
+    background-size: 28.8rem;
     object-fit: cover;
     width: 100%;
 }
 .cardchina .hvr-sweep-to-bottom:before {
     background: url("../images/JanuaryChina.jpg") no-repeat;
-    background-size: 288px;
-    opacity: 50%;
+    background-size: 28.8rem;
     object-fit: cover;
     width: 100%;
 }
 .cardisrael .hvr-sweep-to-bottom:before {
     background: url("../images/FebruaryIsrael.jpg") no-repeat;
-    background-size: 288px;
-    opacity: 50%;
+    background-size: 28.8rem;
     object-fit: cover;
     width: 100%;
 }
 .cardlebanon .hvr-sweep-to-bottom:before {
     background: url("../images/MarchLebanon.jpg") no-repeat;
-    background-size: 288px;
-    opacity: 50%;
+    background-size: 28.8rem;
     object-fit: cover;
     width: 100%;
 }
 .cardafghanistan .hvr-sweep-to-bottom:before {
     background: url("../images/AprilAfghanistan.jpg") no-repeat;
-    background-size: 288px;
-    opacity: 50%;
+    background-size: 28.8rem;
     object-fit: cover;
     width: 100%;
 }
 .cardnigeria .hvr-sweep-to-bottom:before {
     background: url("../images/MayNigeria.jpg") no-repeat;
-    background-size: 288px;
-    opacity: 50%;
+    background-size: 28.8rem;
     object-fit: cover;
     width: 100%;
 }
 .cardkenya .hvr-sweep-to-bottom:before {
     background: url("../images/JuneKenya.jpg") no-repeat;
-    background-size: 288px;
-    opacity: 50%;
+    background-size: 28.8rem;
     object-fit: cover;
     width: 100%;
 }
 .russialogo {
-    margin-right: 0px;
+    margin-right: 0rem;
     background: url("../images/tolstoy.jpg") no-repeat top;
     background-size: cover;
-    min-height: 280px;
+    min-height: 28rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
     object-fit: cover;
     width: 100%;
-}
-.hvr-sweep-to-bottom:hover {
-    color: black;
 }
 
