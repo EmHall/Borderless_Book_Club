@@ -54,27 +54,22 @@ p {
     margin-right: 0rem;
     background: url("../images/elephant.jpg") no-repeat top;
     background-size: cover;
-    width: 17rem;
     min-height: 28rem;
     transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+    width: 100%;
 }
 
 .mcqueen {
     margin-right: 0rem;
     background: url("../images/mcqueen.jpg") no-repeat top;
     background-size: cover;
-    width: 17rem;
     min-height: 28rem;
     transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+    width: 100%;
 }
 
 .bg-color {
     font-size: 3rem;
-    margin-left: 2rem;
 }
 
 .title {
@@ -97,10 +92,6 @@ p {
     font-size: 3rem;
     font-weight: 300;
     color: black;
-}
-
-.col-md-2 {
-    height: 3.2rem;
 }
 
 .col-md-3 {
@@ -157,16 +148,16 @@ a:hover {
     margin-right: 0rem;
     background: url("/assets/images/russia/russialogo.jpg") no-repeat top;
     background-size: cover;
+    min-height: 34rem;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
     object-fit: cover;
     width: 100%;
 }
-
-.lermentov {
+.lermentovface {
     margin-right: 0rem;
-    background: url("/assets/images/russia/lermentov.jpg") no-repeat top;
+    background: url("/assets/images/russia/lermentovface.jpg") no-repeat top;
     background-size: cover;
     min-height: 34rem;
     transition: all .5s ease-in-out;
@@ -176,9 +167,9 @@ a:hover {
     width: 100%;
 }
 
-.tolstoy {
+.tolstoyface {
     margin-right: 0rem;
-    background: url("/assets/images/russia/tolstoy.jpg") no-repeat top;
+    background: url("/assets/images/russia/tolstoyface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -188,9 +179,9 @@ a:hover {
     width: 100%;
 }
 
-.akhmatova {
+.akhmatovaface {
     margin-right: 0rem;
-    background: url("/assets/images/russia/akhmatova.jpg") no-repeat top;
+    background: url("/assets/images/russia/akhmatovaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -200,9 +191,9 @@ a:hover {
     width: 100%;
 }
 
-.pushkin {
+.pushkinface {
     margin-right: 0rem;
-    background: url("/assets/images/russia/pushkin.jpg") no-repeat top;
+    background: url("/assets/images/russia/pushkinface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -236,9 +227,9 @@ a:hover {
     width: 100%;
 }
 
-.tharoor {
+.tharoorface {
     margin-right: 0rem;
-    background: url("/assets/images/india/tharoor.jpg") no-repeat top;
+    background: url("/assets/images/india/tharoorface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -260,9 +251,9 @@ a:hover {
     width: 100%;
 }
 
-.rushdie {
+.rushdieface {
     margin-right: 0rem;
-    background: url("/assets/images/india/rushdie.jpg") no-repeat top;
+    background: url("/assets/images/india/rushdieface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -320,9 +311,9 @@ a:hover {
     width: 100%;
 }
 
-.kemal {
+.kemalface {
     margin-right: 0rem;
-    background: url("/assets/images/turkey/kemal.jpg") no-repeat top;
+    background: url("/assets/images/turkey/kemalface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -356,9 +347,9 @@ a:hover {
     width: 100%;
 }
 
-.hafez {
+.hafezface {
     margin-right: 0rem;
-    background: url("/assets/images/iran/hafez.jpg") no-repeat top;
+    background: url("/assets/images/iran/hafezface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -368,9 +359,9 @@ a:hover {
     width: 100%;
 }
 
-.farrokhzad {
+.farrokhzadface {
     margin-right: 0rem;
-    background: url("/assets/images/iran/farrokhzad.jpg") no-repeat top;
+    background: url("/assets/images/iran/farrokhzadface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -644,9 +635,9 @@ a:hover {
     width: 100%;
 }
 
-.emecheta {
+.emechetaface {
     margin-right: 0rem;
-    background: url("/assets/images/nigeria/emecheta.jpg") no-repeat top;
+    background: url("/assets/images/nigeria/emechetaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -656,9 +647,9 @@ a:hover {
     width: 100%;
 }
 
-.habila {
+.habilaface {
     margin-right: 0rem;
-    background: url("/assets/images/nigeria/habila.jpg") no-repeat top;
+    background: url("/assets/images/nigeria/habilaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -668,9 +659,21 @@ a:hover {
     width: 100%;
 }
 
-.adams {
+.achebeface {
     margin-right: 0rem;
-    background: url("/assets/images/nigeria/adams.jpg") no-repeat top;
+    background: url("/assets/images/nigeria/achebeface.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 28rem;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.soyinkaface {
+    margin-right: 0rem;
+    background: url("/assets/images/nigeria/soyinkaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -857,12 +860,14 @@ a:hover {
     width: 100%;
     font-size: 1.6rem;
 }
+
 .cardafghanistan .hvr-sweep-to-bottom:before {
     background: #d7ebf2;
     background-size: cover;
     object-fit: cover;
     width: 100%;
     font-size: 1.6rem;
+}
 
 .cardnigeria .hvr-sweep-to-bottom:before {
     background: #d7ebf2;
@@ -871,21 +876,15 @@ a:hover {
     width: 100%;
     font-size: 1.6rem;
 }
+
 .cardkenya .hvr-sweep-to-bottom:before {
     background: url("../images/JuneKenya.jpg") no-repeat;
     background-size: 28.8rem;
     object-fit: cover;
     width: 100%;
 }
-.russialogo {
-    margin-right: 0rem;
-    background: url("../images/tolstoy.jpg") no-repeat top;
-    background-size: cover;
-    min-height: 28rem;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-    object-fit: cover;
-    width: 100%;
-}
 
+.lermentovcover {
+    background: url("/assets/images/russia/lermentovcover.jpg") no-repeat top;
+    background-size: 300rem;
+}
