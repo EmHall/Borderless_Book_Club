@@ -4,6 +4,9 @@
     font-size: 10px;
 }
 
+p {
+    font-size: 1.6rem;
+}
 /*--Navbar--*/
 
 .navbar-nav, .navbar-title, .nav-item, .nav-link {
@@ -18,6 +21,7 @@
 .container-fluid-2 {
     background-color: #d7ebf2;
     width: 100%;
+    font-size: 2rem;
 }
 
 .page-title {
@@ -43,10 +47,23 @@
     width: 100%;
     color: black;
     margin-bottom: 1rem;
+    font-size: 1.6rem;
 }
+
 .elephant {
     margin-right: 0rem;
     background: url("../images/elephant.jpg") no-repeat top;
+    background-size: cover;
+    width: 17rem;
+    min-height: 28rem;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.mcqueen {
+    margin-right: 0rem;
+    background: url("../images/mcqueen.jpg") no-repeat top;
     background-size: cover;
     width: 17rem;
     min-height: 28rem;
@@ -91,15 +108,22 @@
     width: 1.8rem;  
 }
 
+.col-md-12 .adams {
+    font-size: 1.6rem;
+}
+
 .icon-title {
     font-family: 'Exo', sans-serif;
+    font-weight: normal;
     padding: 1rem;
+    font-size: 2rem;
 }
 
 .icon-text {
     font-family: 'Exo', sans-serif;
     font-weight: normal;
     padding: 1rem;
+    font-size: 1.6rem;
 }
 
 /*-- Hover Functionality --*/
@@ -787,6 +811,7 @@ a:hover {
     background-size: cover;
     object-fit: cover;
     width: 100%;
+    font-size: 1.6rem;
 }
 
 .cardindia .hvr-sweep-to-bottom:before {
@@ -794,48 +819,57 @@ a:hover {
     background-size: cover;
     object-fit: cover;
     width: 100%;
+    font-size: 1.6rem;
 }
+
 .cardturkey .hvr-sweep-to-bottom:before {
     background: #d7ebf2;
-    background-size: 28.8rem;
+    background-size: cover;
     object-fit: cover;
     width: 100%;
+    font-size: 1.6rem;
 }
 .cardiran .hvr-sweep-to-bottom:before {
     background: #d7ebf2;
-    background-size: 28.8rem;
+    background-size: cover;
     object-fit: cover;
     width: 100%;
+    font-size: 1.6rem;
 }
 .cardchina .hvr-sweep-to-bottom:before {
-    background: url("../images/JanuaryChina.jpg") no-repeat;
-    background-size: 28.8rem;
+    background: #d7ebf2;
+    background-size: cover;
     object-fit: cover;
     width: 100%;
+    font-size: 1.6rem;
 }
 .cardisrael .hvr-sweep-to-bottom:before {
-    background: url("../images/FebruaryIsrael.jpg") no-repeat;
-    background-size: 28.8rem;
+    background: #d7ebf2;
+    background-size: cover;
     object-fit: cover;
     width: 100%;
+    font-size: 1.6rem;
 }
 .cardlebanon .hvr-sweep-to-bottom:before {
-    background: url("../images/MarchLebanon.jpg") no-repeat;
-    background-size: 28.8rem;
+    background: #d7ebf2;
+    background-size: cover;
     object-fit: cover;
     width: 100%;
+    font-size: 1.6rem;
 }
 .cardafghanistan .hvr-sweep-to-bottom:before {
-    background: url("../images/AprilAfghanistan.jpg") no-repeat;
-    background-size: 28.8rem;
+    background: #d7ebf2;
+    background-size: cover;
     object-fit: cover;
     width: 100%;
-}
+    font-size: 1.6rem;
+
 .cardnigeria .hvr-sweep-to-bottom:before {
-    background: url("../images/MayNigeria.jpg") no-repeat;
-    background-size: 28.8rem;
+    background: #d7ebf2;
+    background-size: cover;
     object-fit: cover;
     width: 100%;
+    font-size: 1.6rem;
 }
 .cardkenya .hvr-sweep-to-bottom:before {
     background: url("../images/JuneKenya.jpg") no-repeat;
