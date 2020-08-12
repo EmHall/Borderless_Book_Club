@@ -15,19 +15,10 @@
 
 /*--Title Panel--*/
 
-.container-fluid-1 {
-    background-color:#d7ebf2;
-    width: 100%;
-    color: black;
-    margin-bottom: 1rem;
-}
-
 .container-fluid-2 {
-    background-color: #d7ebf2);
+    background-color: #d7ebf2;
     width: 100%;
 }
-
-/*-- Index.html --*/
 
 .page-title {
     font-family: "Exo" sans-serif;
@@ -45,6 +36,14 @@
     color:black;
 }
 
+/*---Site Introduction---*/
+
+.container-fluid-1 {
+    background-color:#d7ebf2;
+    width: 100%;
+    color: black;
+    margin-bottom: 1rem;
+}
 .elephant {
     margin-right: 0rem;
     background: url("../images/elephant.jpg") no-repeat top;
@@ -54,6 +53,11 @@
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+}
+
+.bg-color {
+    font-size: 3rem;
+    margin-left: 2rem;
 }
 
 .title {
@@ -67,15 +71,9 @@
     font-size: 1.8rem;
 }
 
-/*-- Russia --*/
-
-.bg-color-name-title .name {
-    font-size: 3rem;
-    margin-left: 2rem;
-}
 /*--Cards--*/
 
-.container-fluid-2 {
+.container-fluid {
     background-color: white;
     width: 100%;
     font-family: 'Exo', sans-serif;
@@ -90,26 +88,26 @@
 
 .col-md-3 {
     height: 30rem;
-    width: 1.8rem;    
+    width: 1.8rem;  
 }
-/* -- icons --*/
-.container {
-    margin-top: 2rem;
-    margin-left: 2rem;
-}
+
 .icon-title {
     font-family: 'Exo', sans-serif;
     padding: 1rem;
 }
+
 .icon-text {
     font-family: 'Exo', sans-serif;
     font-weight: normal;
     padding: 1rem;
 }
+
 /*-- Hover Functionality --*/
+
 a {
     color: #d7ebf2;
 }
+
 a:hover {
     text-decoration: none;
     color: black;
@@ -128,6 +126,8 @@ a:hover {
     object-fit: cover;
     width: 100%;
 }
+
+/*-- Pages --*/
 
 .russialogo {
     margin-right: 0rem;
@@ -719,7 +719,6 @@ a:hover {
 .hvr-sweep-to-bottom:hover {
     color: black;
 }
-/*!-- Russia page --*/
 
 .title {
     font-family: "Exo", sans-serif;
