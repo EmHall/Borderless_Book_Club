@@ -284,9 +284,9 @@ a:hover {
     width: 100%;
 }
 
-.ali {
+.aliface {
     margin-right: 0rem;
-    background: url("/assets/images/turkey/ali.jpg") no-repeat top;
+    background: url("/assets/images/turkey/aliface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
