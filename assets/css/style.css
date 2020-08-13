@@ -738,6 +738,66 @@ a:hover {
     width: 100%;
 }
 
+.usalogo {
+    margin-right: 0rem;
+    background: url("/assets/images/USA/usalogo.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 28rem;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.baldwinface {
+    margin-right: 0rem;
+    background: url("/assets/images/USA/baldwinface.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 28rem;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.jacksonface {
+    margin-right: 0rem;
+    background: url("/assets/images/USA/jacksonface.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 28rem;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.ginsbergface {
+    margin-right: 0rem;
+    background: url("/assets/images/USA/ginsbergface.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 28rem;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
+.fitzgeraldface {
+    margin-right: 0rem;
+    background: url("/assets/images/USA/fitzgeraldface.jpg") no-repeat top;
+    background-size: cover;
+    min-height: 28rem;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    object-fit: cover;
+    width: 100%;
+}
+
 .hvr-sweep-to-bottom:hover {
     color: black;
 }
