@@ -16,6 +16,10 @@ p {
     font-weight: 300;
 }
 
+.navbar-nav {
+    padding-left: .6rem;
+}
+
 
 /*--Title Panel--*/
 
@@ -38,6 +42,7 @@ p {
     font-size: 2rem;
     font-weight: 200;
     padding-left: 2rem;
+    padding-bottom: 2rem;
     color:black;
 }
 
@@ -100,6 +105,9 @@ p {
     width: 1.8rem;  
 }
 
+.col-md-10 {
+    font-size: 1.8rem;
+}
 .col-md-12 .adams {
     font-size: 1.6rem;
 }
@@ -120,16 +128,16 @@ p {
 
 /*-- Hover Functionality --*/
 
-a {
-    color: #d7ebf2;
+a:hover {
+    text-decoration: none;
+    color: black;
 }
 
-a:hover {
+.change-color:hover {
     text-decoration: none;
     color: black;
     background: #d7ebf2;
 }
-
 .nav-link .hvr-sweep-to-bottom {
     background-size: cover;
     object-fit: cover;
@@ -800,6 +808,8 @@ a:hover {
 
 .hvr-sweep-to-bottom:hover {
     color: black;
+    width: 100%;
+    height: 100%;
 }
 
 .title {
@@ -937,10 +947,27 @@ a:hover {
 }
 
 .cardkenya .hvr-sweep-to-bottom:before {
-    background: url("../images/JuneKenya.jpg") no-repeat;
-    background-size: 28.8rem;
+    background: #d7ebf2;
+    background-size: cover;
     object-fit: cover;
     width: 100%;
+    font-size: 1.6rem;
+}
+
+.cardUSA .hvr-sweep-to-bottom:before {
+    background: #d7ebf2;
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    font-size: 1.6rem;
+}
+
+.cardbrazil .hvr-sweep-to-bottom:before {
+    background: #d7ebf2;
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    font-size: 1.6rem;
 }
 
 .lermentovcover {
