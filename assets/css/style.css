@@ -406,9 +406,9 @@ a:hover {
     width: 100%;
 }
 
-.jian {
+.jianface {
     margin-right: 0rem;
-    background: url("../images/china/jian.jpg") no-repeat top;
+    background: url("../images/china/jianface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -418,9 +418,9 @@ a:hover {
     width: 100%;
 }
 
-.songling {
+.songlingface {
     margin-right: 0rem;
-    background: url("../images/china/songling.jpg") no-repeat top;
+    background: url("../images/china/songlingface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -430,9 +430,9 @@ a:hover {
     width: 100%;
 }
 
-.bai {
+.baiface {
     margin-right: 0rem;
-    background: url("../images/china/bai.jpg") no-repeat top;
+    background: url("../images/china/baiface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -442,9 +442,9 @@ a:hover {
     width: 100%;
 }
 
-.chang {
+.changface {
     margin-right: 0rem;
-    background: url("../images/china/chang.jpg") no-repeat top;
+    background: url("../images/china/changface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -466,9 +466,9 @@ a:hover {
     width: 100%;
 }
 
-.keret {
+.keretface {
     margin-right: 0rem;
-    background: url("../images/israel/keret.jpg") no-repeat top;
+    background: url("../images/israel/keretface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -478,9 +478,9 @@ a:hover {
     width: 100%;
 }
 
-.yizhar {
+.yizharface {
     margin-right: 0rem;
-    background: url("../images/israel/yizhar.jpg") no-repeat top;
+    background: url("../images/israel/yizharface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -490,9 +490,9 @@ a:hover {
     width: 100%;
 }
 
-.hakimi {
+.hakimiface {
     margin-right: 0rem;
-    background: url("../images/israel/hakimi.jpg") no-repeat top;
+    background: url("../images/israel/hakimiface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -502,9 +502,9 @@ a:hover {
     width: 100%;
 }
 
-.oz {
+.ozface {
     margin-right: 0rem;
-    background: url("../images/israel/oz.jpg") no-repeat top;
+    background: url("../images/israel/ozface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -526,9 +526,9 @@ a:hover {
     width: 100%;
 }
 
-.kashua {
+.kashuaface {
     margin-right: 0rem;
-    background: url("../images/lebanon/kashua.jpg") no-repeat top;
+    background: url("../images/lebanon/kashuaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -562,9 +562,9 @@ a:hover {
     width: 100%;
 }
 
-.khoury {
+.khouryface {
     margin-right: 0rem;
-    background: url("../images/lebanon/khoury.jpg") no-repeat top;
+    background: url("../images/lebanon/khouryface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -586,9 +586,9 @@ a:hover {
     width: 100%;
 }
 
-.hosseini {
+.hosseiniface {
     margin-right: 0rem;
-    background: url("../images/afghanistan/hosseini.jpg") no-repeat top;
+    background: url("../images/afghanistan/hosseiniface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28erm;
     transition: all .5s ease-in-out;
@@ -622,9 +622,9 @@ a:hover {
     width: 100%;
 }
 
-.khalili {
+.asneface {
     margin-right: 0rem;
-    background: url("../images/afghanistan/khalili.jpg") no-repeat top;
+    background: url("../images/afghanistan/asneface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
