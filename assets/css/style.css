@@ -149,7 +149,7 @@ a:hover {
 
 .russialogo {
     margin-right: 0rem;
-    background: url("/assets/images/russia/russialogo.jpg") no-repeat top;
+    background: url("../images/russia/russialogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 34rem;
     transition: all .5s ease-in-out;
@@ -160,7 +160,7 @@ a:hover {
 }
 .lermentovface {
     margin-right: 0rem;
-    background: url("/assets/images/russia/lermentovface.jpg") no-repeat top;
+    background: url("../images/russia/lermentovface.jpg") no-repeat top;
     background-size: cover;
     min-height: 34rem;
     transition: all .5s ease-in-out;
@@ -172,7 +172,7 @@ a:hover {
 
 .tolstoyface {
     margin-right: 0rem;
-    background: url("/assets/images/russia/tolstoyface.jpg") no-repeat top;
+    background: url("../images/russia/tolstoyface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -184,7 +184,7 @@ a:hover {
 
 .akhmatovaface {
     margin-right: 0rem;
-    background: url("/assets/images/russia/akhmatovaface.jpg") no-repeat top;
+    background: url("../images/russia/akhmatovaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -196,7 +196,7 @@ a:hover {
 
 .pushkinface {
     margin-right: 0rem;
-    background: url("/assets/images/russia/pushkinface.jpg") no-repeat top;
+    background: url("../images/russia/pushkinface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -208,7 +208,7 @@ a:hover {
 
 .indialogo {
     margin-right: 0rem;
-    background: url("/assets/images/india/indialogo.jpg") no-repeat top;
+    background: url("../images/india/indialogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -220,7 +220,7 @@ a:hover {
 
 .desai {
     margin-right: 0rem;
-    background: url("/assets/images/india/desai.jpg") no-repeat top;
+    background: url("../images/india/desai.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -232,7 +232,7 @@ a:hover {
 
 .tharoorface {
     margin-right: 0rem;
-    background: url("/assets/images/india/tharoorface.jpg") no-repeat top;
+    background: url("../images/india/tharoorface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -244,7 +244,7 @@ a:hover {
 
 .naidu {
     margin-right: 0rem;
-    background: url("/assets/images/india/naidu.jpg") no-repeat top;
+    background: url("../images/india/naidu.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -256,7 +256,7 @@ a:hover {
 
 .rushdieface {
     margin-right: 0rem;
-    background: url("/assets/images/india/rushdieface.jpg") no-repeat top;
+    background: url("../images/india/rushdieface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -268,7 +268,7 @@ a:hover {
 
 .turkeylogo {
     margin-right: 0rem;
-    background: url("/assets/images/turkey/turkeylogo.jpg") no-repeat top;
+    background: url("../images/turkey/turkeylogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -280,7 +280,7 @@ a:hover {
 
 .aliface {
     margin-right: 0rem;
-    background: url("/assets/images/turkey/aliface.jpg") no-repeat top;
+    background: url("../images/turkey/aliface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -292,7 +292,7 @@ a:hover {
 
 .shafakface {
     margin-right: 0rem;
-    background: url("/assets/images/turkey/shafakface.jpg") no-repeat top;
+    background: url("../images/turkey/shafakface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -304,7 +304,7 @@ a:hover {
 
 .hikmetface {
     margin-right: 0rem;
-    background: url("/assets/images/turkey/hikmetface.jpg") no-repeat top;
+    background: url("../images/turkey/hikmetface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -316,7 +316,7 @@ a:hover {
 
 .kemalface {
     margin-right: 0rem;
-    background: url("/assets/images/turkey/kemalface.jpg") no-repeat top;
+    background: url("../images/turkey/kemalface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -328,7 +328,7 @@ a:hover {
 
 .iranlogo {
     margin-right: 0rem;
-    background: url("/assets/images/iran/iranlogo.jpg") no-repeat top;
+    background: url("../images/iran/iranlogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -340,7 +340,7 @@ a:hover {
 
 .attar {
     margin-right: 0rem;
-    background: url("/assets/images/iran/attar.jpg") no-repeat top;
+    background: url("../images/iran/attar.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -352,7 +352,7 @@ a:hover {
 
 .hafezface {
     margin-right: 0rem;
-    background: url("/assets/images/iran/hafezface.jpg") no-repeat top;
+    background: url("../images/iran/hafezface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -364,7 +364,7 @@ a:hover {
 
 .farrokhzadface {
     margin-right: 0rem;
-    background: url("/assets/images/iran/farrokhzadface.jpg") no-repeat top;
+    background: url("../images/iran/farrokhzadface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -376,7 +376,7 @@ a:hover {
 
 .ferdowsi {
     margin-right: 0rem;
-    background: url("/assets/images/iran/ferdowsi.jpg") no-repeat top;
+    background: url("../images/iran/ferdowsi.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -388,7 +388,7 @@ a:hover {
 
 .chinalogo {
     margin-right: 0rem;
-    background: url("/assets/images/china/chinalogo.jpg") no-repeat top;
+    background: url("../images/china/chinalogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -400,7 +400,7 @@ a:hover {
 
 .jian {
     margin-right: 0rem;
-    background: url("/assets/images/china/jian.jpg") no-repeat top;
+    background: url("../images/china/jian.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -412,7 +412,7 @@ a:hover {
 
 .songling {
     margin-right: 0rem;
-    background: url("/assets/images/china/songling.jpg") no-repeat top;
+    background: url("../images/china/songling.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -424,7 +424,7 @@ a:hover {
 
 .bai {
     margin-right: 0rem;
-    background: url("/assets/images/china/bai.jpg") no-repeat top;
+    background: url("../images/china/bai.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -436,7 +436,7 @@ a:hover {
 
 .chang {
     margin-right: 0rem;
-    background: url("/assets/images/china/chang.jpg") no-repeat top;
+    background: url("../images/china/chang.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -448,7 +448,7 @@ a:hover {
 
 .israellogo {
     margin-right: 0rem;
-    background: url("/assets/images/israel/israellogo.jpg") no-repeat top;
+    background: url("../images/israel/israellogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -460,7 +460,7 @@ a:hover {
 
 .keret {
     margin-right: 0rem;
-    background: url("/assets/images/israel/keret.jpg") no-repeat top;
+    background: url("../images/israel/keret.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -472,7 +472,7 @@ a:hover {
 
 .yizhar {
     margin-right: 0rem;
-    background: url("/assets/images/israel/yizhar.jpg") no-repeat top;
+    background: url("../images/israel/yizhar.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -484,7 +484,7 @@ a:hover {
 
 .hakimi {
     margin-right: 0rem;
-    background: url("/assets/images/israel/hakimi.jpg") no-repeat top;
+    background: url("../images/israel/hakimi.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -496,7 +496,7 @@ a:hover {
 
 .oz {
     margin-right: 0rem;
-    background: url("/assets/images/israel/oz.jpg") no-repeat top;
+    background: url("../images/israel/oz.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -508,7 +508,7 @@ a:hover {
 
 .lebanonlogo {
     margin-right: 0rem;
-    background: url("/assets/images/lebanon/lebanonlogo.jpg") no-repeat top;
+    background: url("../images/lebanon/lebanonlogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -520,7 +520,7 @@ a:hover {
 
 .kashua {
     margin-right: 0rem;
-    background: url("/assets/images/lebanon/kashua.jpg") no-repeat top;
+    background: url("../images/lebanon/kashua.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -532,7 +532,7 @@ a:hover {
 
 .noir {
     margin-right: 0rem;
-    background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
+    background: url("../images/lebanon/noir.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -544,7 +544,7 @@ a:hover {
 
 .qabbani {
     margin-right: 0rem;
-    background: url("/assets/images/lebanon/qabbani.jpg") no-repeat top;
+    background: url("../images/lebanon/qabbani.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -556,7 +556,7 @@ a:hover {
 
 .khoury {
     margin-right: 0rem;
-    background: url("/assets/images/lebanon/khoury.jpg") no-repeat top;
+    background: url("../images/lebanon/khoury.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -568,7 +568,7 @@ a:hover {
 
 .afghanistanlogo {
     margin-right: 0rem;
-    background: url("/assets/images/afghanistan/afghanistanlogo.jpg") no-repeat top;
+    background: url("../images/afghanistan/afghanistanlogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -580,7 +580,7 @@ a:hover {
 
 .hosseini {
     margin-right: 0rem;
-    background: url("/assets/images/afghanistan/hosseini.jpg") no-repeat top;
+    background: url("../images/afghanistan/hosseini.jpg") no-repeat top;
     background-size: cover;
     min-height: 28erm;
     transition: all .5s ease-in-out;
@@ -592,7 +592,7 @@ a:hover {
 
 .osman {
     margin-right: 0erm;
-    background: url("/assets/images/afghanistan/osman.jpg") no-repeat top;
+    background: url("../images/afghanistan/osman.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -604,7 +604,7 @@ a:hover {
 
 .rumi {
     margin-right: 0rem;
-    background: url("/assets/images/afghanistan/rumi.jpg") no-repeat top;
+    background: url("../images/afghanistan/rumi.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -616,7 +616,7 @@ a:hover {
 
 .khalili {
     margin-right: 0rem;
-    background: url("/assets/images/afghanistan/khalili.jpg") no-repeat top;
+    background: url("../images/afghanistan/khalili.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -628,7 +628,7 @@ a:hover {
 
 .nigerialogo {
     margin-right: 0rem;
-    background: url("/assets/images/nigeria/nigerialogo.jpg") no-repeat top;
+    background: url("../images/nigeria/nigerialogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -640,7 +640,7 @@ a:hover {
 
 .emechetaface {
     margin-right: 0rem;
-    background: url("/assets/images/nigeria/emechetaface.jpg") no-repeat top;
+    background: url("../images/nigeria/emechetaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -652,7 +652,7 @@ a:hover {
 
 .habilaface {
     margin-right: 0rem;
-    background: url("/assets/images/nigeria/habilaface.jpg") no-repeat top;
+    background: url("../images/nigeria/habilaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -664,7 +664,7 @@ a:hover {
 
 .achebeface {
     margin-right: 0rem;
-    background: url("/assets/images/nigeria/achebeface.jpg") no-repeat top;
+    background: url("../images/nigeria/achebeface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -676,7 +676,7 @@ a:hover {
 
 .soyinkaface {
     margin-right: 0rem;
-    background: url("/assets/images/nigeria/soyinkaface.jpg") no-repeat top;
+    background: url("../images/nigeria/soyinkaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -688,7 +688,7 @@ a:hover {
 
 .noir {
     margin-right: 0rem;
-    background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
+    background: url("../images/lebanon/noir.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -700,7 +700,7 @@ a:hover {
 
 .kenyalogo {
     margin-right: 0rem;
-    background: url("/assets/images/lebanon/noir.jpg") no-repeat top;
+    background: url("../images/lebanon/noir.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -712,7 +712,7 @@ a:hover {
 
 .thiongo {
     margin-right: 0rem;
-    background: url("/assets/images/kenya/thiongo.jpg") no-repeat top;
+    background: url("../images/kenya/thiongo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -724,7 +724,7 @@ a:hover {
 
 .mabura {
     margin-right: 0rem;
-    background: url("/assets/images/kenya/mabura.jpg") no-repeat top;
+    background: url("../images/kenya/mabura.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -736,7 +736,7 @@ a:hover {
 
 .teyie {
     margin-right: 0rem;
-    background: url("/assets/images/kenya/teyie.jpg") no-repeat top;
+    background: url("../images/kenya/teyie.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -748,7 +748,7 @@ a:hover {
 
 .usalogo {
     margin-right: 0rem;
-    background: url("/assets/images/USA/usalogo.jpg") no-repeat top;
+    background: url("../images/USA/usalogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -760,7 +760,7 @@ a:hover {
 
 .baldwinface {
     margin-right: 0rem;
-    background: url("/assets/images/USA/baldwinface.jpg") no-repeat top;
+    background: url("../images/USA/baldwinface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -772,7 +772,7 @@ a:hover {
 
 .jacksonface {
     margin-right: 0rem;
-    background: url("/assets/images/USA/jacksonface.jpg") no-repeat top;
+    background: url("../images/USA/jacksonface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -784,7 +784,7 @@ a:hover {
 
 .ginsbergface {
     margin-right: 0rem;
-    background: url("/assets/images/USA/ginsbergface.jpg") no-repeat top;
+    background: url("../images/USA/ginsbergface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -796,7 +796,7 @@ a:hover {
 
 .fitzgeraldface {
     margin-right: 0rem;
-    background: url("/assets/images/USA/fitzgeraldface.jpg") no-repeat top;
+    background: url("../images/USA/fitzgeraldface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -971,6 +971,6 @@ a:hover {
 }
 
 .lermentovcover {
-    background: url("/assets/images/russia/lermentovcover.jpg") no-repeat top;
+    background: url("../images/russia/lermentovcover.jpg") no-repeat top;
     background-size: 300rem;
 }
