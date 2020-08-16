@@ -58,9 +58,9 @@ p {
 /*---Site Introduction---*/
 
 .container-fluid-1 {
-    background-color:#d7ebf2;
+    background-color: #B0C4DE;
     width: 100%;
-    color: black;
+    color: white;
     margin-bottom: 1rem;
     font-size: 1.6rem;
 }
@@ -115,6 +115,7 @@ p {
 
 .col-md-10 {
     font-size: 1.8rem;
+    background: #B0C4DE;
 }
 .col-md-12 .adams {
     font-size: 1.6rem;
@@ -838,6 +839,8 @@ a:hover {
     font-size: 1.5rem;
     padding-left: 1.5rem;
     padding-top: 1.5rem;
+    color: white;
+    background: #B0C4DE;
 }
 
 .pushkin-image {
