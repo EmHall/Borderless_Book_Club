@@ -37,12 +37,20 @@ p {
     color: black;
 }
 
+.country-title {
+    font-family: "Exo" sans-serif;
+    font-size: 3rem;
+    font-weight: 300;
+    padding-left: 2rem;
+    padding-bottom: 1.6rem;
+    color: black;
+}
+
 .page-subtitle {
     font-family: "Exo" sans-serif;
     font-size: 2rem;
     font-weight: 200;
     padding-left: 2rem;
-    padding-bottom: 2rem;
     color:black;
 }
 
@@ -81,7 +89,6 @@ p {
 .title {
     font-family: "Exo" sans-serif;
     font-size: 2rem;
-    margin-top: .8rem;
 }
 
 .subtitle {
@@ -700,7 +707,7 @@ a:hover {
 
 .kenyalogo {
     margin-right: 0rem;
-    background: url("../images/lebanon/noir.jpg") no-repeat top;
+    background: url("../images/kenya/kenyalogo.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -710,9 +717,9 @@ a:hover {
     width: 100%;
 }
 
-.thiongo {
+.thiongoface {
     margin-right: 0rem;
-    background: url("../images/kenya/thiongo.jpg") no-repeat top;
+    background: url("../images/kenya/thiongoface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -722,9 +729,9 @@ a:hover {
     width: 100%;
 }
 
-.mabura {
+.maburaface {
     margin-right: 0rem;
-    background: url("../images/kenya/mabura.jpg") no-repeat top;
+    background: url("../images/kenya/maburaface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -734,9 +741,9 @@ a:hover {
     width: 100%;
 }
 
-.teyie {
+.teyieface {
     margin-right: 0rem;
-    background: url("../images/kenya/teyie.jpg") no-repeat top;
+    background: url("../images/kenya/teyieface.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
     transition: all .5s ease-in-out;
@@ -829,6 +836,7 @@ a:hover {
     font-family: "Exo", sans-serif;
     font-size: 1.5rem;
     padding-left: 1.5rem;
+    padding-top: 1.5rem;
 }
 
 .pushkin-image {
