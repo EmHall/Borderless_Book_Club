@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+@media only screen and (max-width: 600px) {
+  body {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+container-fluid-2 {
+    padding: 0;
+}
+}
+
 * {
     font-size: 10px;
 }
@@ -43,7 +54,7 @@ p {
     font-size: 3rem;
     font-weight: 300;
     padding-left: 2rem;
-    padding-bottom: 1.6rem;
+    padding-bottom: 1rem;
     color: black;
 }
 
@@ -67,18 +78,9 @@ p {
 
 .elephant {
     margin-right: 0rem;
-    background: url("../images/elephant.jpg") no-repeat top;
+    background: url("../images/india/elephant.jpg") no-repeat top;
     background-size: cover;
     min-height: 28rem;
-    transition: all .5s ease-in-out;
-    width: 100%;
-}
-
-.mcqueen {
-    margin-right: 0rem;
-    background: url("../images/mcqueen.jpg") no-repeat top;
-    background-size: cover;
-    height: 100%;
     transition: all .5s ease-in-out;
     width: 100%;
 }
@@ -163,6 +165,16 @@ a:hover {
 }
 
 /*-- Pages --*/
+
+.mcqueen {
+    margin-right: 0rem;
+    background-image: url("../images/india/mcqueen.jpg");
+    background-size: cover;
+    padding-bottom: 2.5rem;
+    background-repeat: no-repeat;
+    transition: all .5s ease-in-out;
+    width: 100%;
+}
 
 .russialogo {
     margin-right: 0rem;
@@ -846,6 +858,7 @@ a:hover {
     font-family: "Exo", sans-serif;
     font-size: 1.5rem;
     padding-top: 1.5rem;
+    padding-left: 1.5rem;
     color: white;
     background: #B0C4DE;
 }
