@@ -78,13 +78,17 @@ p {
     margin-right: 0rem;
     background: url("../images/mcqueen.jpg") no-repeat top;
     background-size: cover;
-    min-height: 28rem;
+    height: 100%;
     transition: all .5s ease-in-out;
     width: 100%;
 }
 
 .bg-color {
     font-size: 3rem;
+}
+
+.first-row {
+    margin-top: 2rem;
 }
 
 .title {
@@ -95,7 +99,10 @@ p {
 .subtitle {
     font-family: "Exo" sans-serif;
     font-size: 1.8rem;
+    padding-top: 1rem;
+    text-decoration: underline;
 }
+
 
 /*--Cards--*/
 
@@ -117,6 +124,7 @@ p {
     font-size: 1.8rem;
     background: #B0C4DE;
 }
+
 .col-md-12 .adams {
     font-size: 1.6rem;
 }
@@ -837,7 +845,6 @@ a:hover {
 .text-blurb {
     font-family: "Exo", sans-serif;
     font-size: 1.5rem;
-    padding-left: 1.5rem;
     padding-top: 1.5rem;
     color: white;
     background: #B0C4DE;
@@ -883,7 +890,7 @@ a:hover {
 
 .hvr-sweep-to-bottom:before {
     width: 22.5rem;
-    height: 30rem;
+    height: 100%;
 }
 
 .cardrussia .hvr-sweep-to-bottom:before {
